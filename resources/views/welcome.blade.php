@@ -558,9 +558,9 @@
                 <img src="Image/Logo.png" alt="Logo" style="width: 192px; height: 50px;">
             </div>
             <nav style="display: flex; gap: 80px;">
-                <a href="#" style="text-decoration: none; font-family: Lato; font-weight: 600; font-size: 16px; color: #333333; line-height: 140%;">Layanan</a>
-                <a href="#" style="text-decoration: none; font-family: Lato; font-weight: 600; font-size: 16px; color: #333333; line-height: 140%;">Keunggulan</a>
-                <a href="#" style="text-decoration: none; font-family: Lato; font-weight: 600; font-size: 16px; color: #333333; line-height: 140%;">Alur Pemesanan</a>
+                <a href="#" style="text-decoration: none; font-family: Poppins; font-weight: 600; font-size: 16px; color: #333333; line-height: 140%;">Layanan</a>
+                <a href="#" style="text-decoration: none; font-family: Poppins; font-weight: 600; font-size: 16px; color: #333333; line-height: 140%;">Keunggulan</a>
+                <a href="#" style="text-decoration: none; font-family: Poppins; font-weight: 600; font-size: 16px; color: #333333; line-height: 140%;">Alur Pemesanan</a>
             </nav>
         </div>
     </header>
